@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.3.9
+Built-By: Asus
+Build-Jdk: 10.0.1
+Implementation-Title: Main_Application
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.Dc
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Main_Application
+Main-Class: org.springframework.boot.loader.WarLauncher
+Start-Class: com.Dc.SpringBootApp
+Spring-Boot-Version: 2.0.5.RELEASE
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+
